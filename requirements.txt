@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+lxml
+TMDb
+tmdbv3api
+BeautifulSoup4
+nltk
+scikit-plot
+cinemagoer
+keras
+tensorflow
