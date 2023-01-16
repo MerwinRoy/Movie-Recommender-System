@@ -64,5 +64,5 @@ Implemented content-based and collaborative filtering recommender systems approa
 ### Result
 <img width="735" alt="Screenshot 2022-12-20 at 3 27 58 PM" src="https://user-images.githubusercontent.com/46862684/208760200-d3c3c0d6-9798-485c-924a-58148c021845.png">
 
-After a comparative study on the models above, we conclude that the classification model using the Convolutional Neural Network (CNN) is model that yielded the best results with an approx. accuracy score of 99.13 %.
+After a comparative study on the models above, we conclude that the classification model using the Convolutional Neural Network (CNN) is model that yielded the best results with an approx. accuracy score of 99.23 %.
 
